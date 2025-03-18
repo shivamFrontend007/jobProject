@@ -1,0 +1,30 @@
+.service-card {
+    width: 300px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 10px;
+    cursor: pointer;
+    transition: background 0.5s, transform 0.5s;
+  }
+  .service-card:hover{
+    transform: translateY(-10px);
+  }
+  
+  .service-icon {
+    width: 200px;
+    height: 150px;
+    margin-bottom: 10px;
+  }
+  
+  .service-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .service-card p {
+    font-size: 1rem;
+  }
+  

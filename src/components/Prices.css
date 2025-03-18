@@ -1,0 +1,35 @@
+.pricing-table {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    padding-bottom: 80px;
+  }
+  
+  .pricing-card {
+    padding: 30px;
+    border: 3px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    margin: 0 15px;
+  }
+  
+  .pricing-card h2 {
+    font-size: 1.8rem;
+    color: antiquewhite;
+  }
+  
+  .pricing-card p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: antiquewhite;
+  }
+  
+  .pricing-card button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
