@@ -17,17 +17,17 @@ const App = () => {
         <ServiceCard 
           title="Web Development" 
           description="We provide one of the best website development" 
-          icon="/src/public/assets/webd.jpg" 
+          icon="/webd.jpg" 
         />
         <ServiceCard 
           title="App Development" 
           description="Most user friendly app creation for both Android and iOS" 
-          icon="/src/public/assets/app.jpg" 
+          icon="/app.jpg" 
         />
         <ServiceCard 
           title="SEO Services" 
           description="Optimizing websites for search engines." 
-          icon="src/public/assets/seo.jpg" 
+          icon="/seo.jpg" 
         />
       </div>
       <h1 className='planh1' id='plans'>------- Our Plans -------</h1>
